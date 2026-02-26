@@ -1,27 +1,23 @@
-# ai-capstone-hw0
+# pysical-ai-hw0
 
-NYCU AI Capstone 2026 Fall
+NYCU Physical AI 2025 Fall
 
-Spec: https://drive.google.com/file/d/1rdbRMXMCjqozzj0y5bLiu0itU2D9GrFc/view?usp=sharing
-
-Slide: https://docs.google.com/presentation/d/1FSDUIIN-GM05lxHIfW1OII-CdiMmDhrn/edit?usp=sharing&ouid=114385544772538729562&rtpof=true&sd=true
+Spec: https://docs.google.com/document/d/1AGyn_86wDJFglbIqMNx1RYWl1Sz4GJe2/edit
 
 ## Introduction 
-In this course, we are going to build an indoor navigation system in Habitat step by step during homework 1 ~ 3 and the final project. This homework 0 will help you to build the environment with essential packages.
+In this course, we are going to build an indoor navigation system in Habitat step by step during homework 1 ~ 2 and the final project. This homework 0 will help you to build the environment with essential packages.
 
 ## Requirements
 - OS : Ubuntu Desktop 18.04, 20.04
 
     - Ubuntu on virtual machine is not recommended
     - MacOS may work but not guaranteed
-    - WSL will not work
-    - Windows will not work
 - Python 3.7 ( You can use conda to create new environment )
 
 ## Installation
 
 ### Clone the repo
-`git clone git@github.com:HCIS-Lab/ai-capstone26.git` to download the repo or create a new fork on you own GitHub account.
+`git clone git@github.com:HCIS-Lab/physical-ai25.git` to download the repo or create a new fork on you own GitHub account.
 
 ```bash
 cd physical-ai25/hw0
