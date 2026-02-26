@@ -1,6 +1,8 @@
-# physical-ai-hw2
+# physical-ai-hw1
+
 NYCU Physical AI 2025 Fall
 
-Spec: https://drive.google.com/file/d/1jg5wRDpTQcx7Ux01hNzPmMdKGN-Mhxc0/view?usp=sharing
+Spec: [Google Docs](https://docs.google.com/document/d/1UqDRjh7qwQVzz2iN9Abdu4-NIl-xEO4G/edit)
+
 ## Preparation
-In your original physical-ai25 directory, `git pull` to get new `hw2` directory.
+The replica dataset, you can use the same one in `hw0`.

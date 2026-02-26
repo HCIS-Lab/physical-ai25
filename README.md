@@ -1,9 +1,8 @@
-# physical-ai25
-NYCU Physical AI 2025 Fall
-## 
+# ai-capstone26
+## NYCU AI CAPSTONE 2026 Spring
 You can choose to create a new fork on you own GitHub account.
 
-Or `git clone git@github.com:HCIS-Lab/physical-ai25` to only download a local copy.
+Or `git clone https://github.com/HCIS-Lab/ai-capstone26.git` to only download a local copy.
 
 All files and contents of each homework will be placed in their respective folders.
 

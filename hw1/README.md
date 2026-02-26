@@ -1,8 +1,6 @@
-# physical-ai-hw1
+# ai-capstone-hw1
 
-NYCU Physical AI 2025 Fall
+NYCU AI Capstone 2026 Spring
 
-Spec: [Google Docs](https://docs.google.com/document/d/1UqDRjh7qwQVzz2iN9Abdu4-NIl-xEO4G/edit)
+Spec: [Google Docs](https://docs.google.com/document/d/12oA9nxh-qc2v_pnOqRRStw95YPJNO1zy7u75n6enTj4/edit)
 
-## Preparation
-The replica dataset, you can use the same one in `hw0`.
